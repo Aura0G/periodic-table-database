@@ -1,4 +1,0 @@
-
-
-
-# periodic-table-database
